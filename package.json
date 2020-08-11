@@ -1,0 +1,26 @@
+{
+  "name": "fibonacci-api",
+  "version": "1.0.0",
+  "description": "Node API that calculates the nth digit of the Fibonacci Sequence for CPU stress test purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asolera/fibonacci-api.git"
+  },
+  "keywords": [
+    "fibonacci",
+    "stress",
+    "cpu",
+    "node",
+    "api"
+  ],
+  "author": "Andrew Solera (andrewsolera@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asolera/fibonacci-api/issues"
+  },
+  "homepage": "https://github.com/asolera/fibonacci-api#readme"
+}
